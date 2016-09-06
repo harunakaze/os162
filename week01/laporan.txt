@@ -1,1 +1,1 @@
-Pada task week1 ini kita belajar dasar-dasar penggunan git, serta beberapa command pada linux, dan juga menggunakan beberapa text editor linux.
+Pada task week1 ini kita belajar dasar-dasar penggunan git, serta beberapa command pada linux, sedikit scripting, dan juga menggunakan beberapa text editor linux.
