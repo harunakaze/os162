@@ -17,3 +17,4 @@ drwxr-xr-x  2 saka.wibawa StafCS 4096 Sep  6 23:58 week08
 drwxr-xr-x  2 saka.wibawa StafCS 4096 Sep  6 23:58 week09
 drwxr-xr-x  2 saka.wibawa StafCS 4096 Sep  6 23:58 week10
 /home/fasilkom/mahasiswa/s/saka.wibawa/os162/week01
+Today is 07 Sep 2016 at 01:44:21
