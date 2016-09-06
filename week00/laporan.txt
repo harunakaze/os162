@@ -1,0 +1,2 @@
+Jadi minggu ke 0 ada 2 task yang harus dilakukan, pertama say hello dan sapa-sapa di [Task0] yang saya yakin sebagian besar pada malu-malu mau nyapa atau ngak, karena kalo gak nyapa nanti dikira gak ngerjain tugas, akhirnya yasudah sapa sajalah toh sekalian ngetest scele.
+Lalu di [Task1] kita disuruh buat akun GMail (kayaknya semua punya deh) terus akun GitHub juga (untung udah punya). Ya terus isi form dan tunggu di ack, kalo udah coba ssh ke badak via kawung kalo dirumah, beres deh.
