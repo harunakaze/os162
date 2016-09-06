@@ -1,2 +1,4 @@
 #Saka Wibawa Putra
 #class EXT162
+
+I expect after taking this class, i will be able to troubleshoot all OS related problem in real life, as a result of deep understanding of the OS itself.
