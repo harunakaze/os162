@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 saka.wibawa StafCS 4096 Sep  7 00:25 .
+drwx--x--x  3 saka.wibawa StafCS 4096 Sep  7 00:23 ..
+drwxr-xr-x  8 saka.wibawa StafCS 4096 Sep  7 00:24 .git
+-rw-r--r--  1 saka.wibawa StafCS    0 Sep  7 00:25 lab01.txt
+-rw-r--r--  1 saka.wibawa StafCS    7 Sep  6 23:37 README.md
+drwxr-xr-x  2 saka.wibawa StafCS 4096 Sep  7 00:13 SandBox
+drwxr-xr-x  2 saka.wibawa StafCS 4096 Sep  7 00:23 week00
+drwxr-xr-x  2 saka.wibawa StafCS 4096 Sep  6 23:58 week01
+drwxr-xr-x  2 saka.wibawa StafCS 4096 Sep  6 23:58 week02
+drwxr-xr-x  2 saka.wibawa StafCS 4096 Sep  6 23:58 week03
+drwxr-xr-x  2 saka.wibawa StafCS 4096 Sep  6 23:58 week04
+drwxr-xr-x  2 saka.wibawa StafCS 4096 Sep  6 23:58 week05
+drwxr-xr-x  2 saka.wibawa StafCS 4096 Sep  6 23:58 week06
+drwxr-xr-x  2 saka.wibawa StafCS 4096 Sep  6 23:58 week07
+drwxr-xr-x  2 saka.wibawa StafCS 4096 Sep  6 23:58 week08
+drwxr-xr-x  2 saka.wibawa StafCS 4096 Sep  6 23:58 week09
+drwxr-xr-x  2 saka.wibawa StafCS 4096 Sep  6 23:58 week10
+/home/fasilkom/mahasiswa/s/saka.wibawa/os162/week01
